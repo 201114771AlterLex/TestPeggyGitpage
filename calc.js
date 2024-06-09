@@ -1,4 +1,4 @@
-import { parse, StartRules, SyntaxError } from '.temp.js'
+import { parse, StartRules, SyntaxError } from './temp.js'
 let x;
 
 document.getElementById("x").addEventListener("keydown", function(e) {
